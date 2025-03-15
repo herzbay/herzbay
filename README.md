@@ -1,4 +1,4 @@
-## Hi there 👋
+## Huy, What's Good? 👋
 
 🌱 I’m currently committed to learning coding every day is a great way to see progress over time.
 
