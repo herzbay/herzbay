@@ -14,7 +14,7 @@ I enjoy exploring new technologies, turning ideas into digital experiences, and 
 ## 🛠️ Tech Stack & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=php,laravel,js,ts,react,nextjs,nodejs,html,css,tailwind,mysql,postgres,git,github,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,ts,react,nextjs,nodejs,tailwind,mysql,postgres,postman,docker,figma" />
 </p>
 
 ---
@@ -37,8 +37,6 @@ Meet **Gregon**, my coding companion! 🐲
   </a>
 </p>
 
-*Stay curious, stay consistent, and keep building. Every line of code counts!* 💪
-
 ---
 
 ## 📫 Let's Connect
@@ -47,6 +45,9 @@ Meet **Gregon**, my coding companion! 🐲
   <a href="https://bayuherlambang.my.id">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Website-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
+</p>
+
+<p align="left">
   <a href="https://www.linkedin.com/in/bayher">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
